@@ -1,0 +1,15 @@
+Clearing GPU cache for all ranks
+--> Running with torch dist debug set to detail
+trainable params: 4,194,304 || all params: 6,742,609,920 || trainable%: 0.0622
+--> Model ../llama-2-7b
+
+--> ../llama-2-7b has 6738.415616 Million params
+
+trainable params: 4,194,304 || all params: 6,742,609,920 || trainable%: 0.0622
+bFloat16 enabled for mixed precision - using bfSixteen policy
+--> applying fsdp activation checkpointing...
+--> applying fsdp activation checkpointing...
+--> Training Set Length = 43200
+--> Validation Set Length = 2399
+--> Num of Validation Set Batches loaded = 36
+--> Num of Validation Set Batches loaded = 36
